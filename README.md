@@ -39,10 +39,8 @@
 ===Науковий керівник: Робейко В.В., викладач кафедри прикладної лінгвістики КНУ імені Тараса Шевченка.===
 
 (с) Цей проект є внеском у розвиток лінгвістичних ресурсів для дослідження української мови. Ми сподіваємося, що він стане цінним інструментом для фахівців у галузі фонетики, акустики мовлення та штучного інтелекту.
-.
-.
-.
-***Corpus of Emotional Ukrainian Speech***
+
+***Ukrainian imitated emotion corpora***
 
 This project presents a corpus of emotional Ukrainian speech, developed to study the acoustic characteristics of the Ukrainian language in an emotional context. The corpus was created by students of the "Applied (Computer) Linguistics and English Language" program at Taras Shevchenko National University of Kyiv as part of a course project under the scientific supervision of V.V. Robeyko.
 
