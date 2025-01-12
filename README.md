@@ -55,6 +55,7 @@ The corpus includes the following key features:
 • Corpus composition:
   - 50 voices (male and female).
   - 5 emotional states:
+    
     ~ Sadness
     ~ Annoyance
     ~ Astonishment
