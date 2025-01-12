@@ -38,6 +38,10 @@
 
 ===Науковий керівник: Робейко В.В., викладач кафедри прикладної лінгвістики КНУ імені Тараса Шевченка.===
 
+***Посилання на корпус***
+
+https://drive.google.com/drive/folders/1rL0Z40q4TCPfo_G_xMOwuYu9tkoIyhRv?usp=sharing
+
 (с) Цей проект є внеском у розвиток лінгвістичних ресурсів для дослідження української мови. Ми сподіваємося, що він стане цінним інструментом для фахівців у галузі фонетики, акустики мовлення та штучного інтелекту.
 
 ***Ukrainian imitated emotion corpora***
@@ -74,5 +78,9 @@ The corpus is open for use in educational and scientific purposes. Its data can 
 ===Project Authors: Solodka O.S. and Yurutkin M.B.===
 
 ===Scientific Supervisor: V.V. Robeyko, lecturer of the Department of Applied Linguistics, Taras Shevchenko National University of Kyiv.===
+
+***Link to the corpora***
+
+https://drive.google.com/drive/folders/1rL0Z40q4TCPfo_G_xMOwuYu9tkoIyhRv?usp=sharing
 
 (c) This project contributes to the development of linguistic resources for the study of the Ukrainian language. We hope it becomes a valuable tool for specialists in the fields of phonetics, speech acoustics, and artificial intelligence.
